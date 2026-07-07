@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "description": "Milestones of cosmic and human history, in years before present (approximate).",
+    "universe_age_years": 13800000000,
+    "units": "years_ago",
+    "inspiration": "https://www.youtube.com/shorts/xaqsBWFZcHs"
+  },
+  "events": [
+    { "name": "Big Bang", "years_ago": 13800000000, "category": "cosmic" },
+    { "name": "Milky Way forms", "years_ago": 13600000000, "category": "cosmic" },
+    { "name": "Sun and Earth form", "years_ago": 4600000000, "category": "cosmic" },
+    { "name": "First life on Earth", "years_ago": 3800000000, "category": "life" },
+    { "name": "Oxygenation of atmosphere", "years_ago": 2400000000, "category": "life" },
+    { "name": "First animals", "years_ago": 800000000, "category": "life" },
+    { "name": "Cambrian explosion", "years_ago": 540000000, "category": "life" },
+    { "name": "Dinosaur extinction", "years_ago": 66000000, "category": "life" },
+    { "name": "Hominins split from chimpanzee lineage", "years_ago": 7000000, "category": "human" },
+    { "name": "Homo sapiens appears", "years_ago": 300000, "category": "human" },
+    { "name": "Cognitive revolution", "years_ago": 70000, "category": "human" },
+    { "name": "Humans reach Australia", "years_ago": 45000, "category": "human" },
+    { "name": "Humans reach the Americas", "years_ago": 15000, "category": "human" },
+    { "name": "Agriculture begins", "years_ago": 12000, "category": "civilization" },
+    { "name": "First cities (Uruk)", "years_ago": 7000, "category": "civilization" },
+    { "name": "Writing invented (cuneiform)", "years_ago": 5500, "category": "civilization" },
+    { "name": "Great Pyramid of Giza", "years_ago": 4600, "category": "civilization" },
+    { "name": "Bronze Age collapse", "years_ago": 3200, "category": "civilization" },
+    { "name": "Axial age begins", "years_ago": 2800, "category": "civilization" },
+    { "name": "Roman Empire / Han dynasty peak", "years_ago": 2000, "category": "civilization" },
+    { "name": "Printing press", "years_ago": 586, "category": "civilization" },
+    { "name": "Columbian exchange begins", "years_ago": 534, "category": "civilization" },
+    { "name": "Scientific revolution (Galileo's telescope)", "years_ago": 417, "category": "civilization" },
+    { "name": "Industrial Revolution", "years_ago": 260, "category": "civilization" },
+    { "name": "Nuclear weapons", "years_ago": 81, "category": "civilization" },
+    { "name": "First human in space", "years_ago": 65, "category": "civilization" },
+    { "name": "First humans on the Moon", "years_ago": 57, "category": "civilization" },
+    { "name": "Internet goes public", "years_ago": 35, "category": "civilization" }
+  ]
+}
